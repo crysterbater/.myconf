@@ -1,0 +1,7 @@
+2017/06/10-13:53:29.496 32749 Log #6: dropping 2086 bytes; Corruption: missing start of fragmented record(2)
+2017/06/10-13:53:29.613 32749 Log #6: 2223 ops saved to Table #7 OK
+2017/06/10-13:53:29.625 32749 Archiving /home/pringled/.config/vivaldi-snapshot/Default/Local App Settings/mpognobbkildjkofajifpdfhcoklimli/000006.log: OK
+2017/06/10-13:53:29.665 32749 Table #4: 7900 entries OK
+2017/06/10-13:53:29.669 32749 Table #7: 2223 entries OK
+2017/06/10-13:53:29.669 32749 Archiving /home/pringled/.config/vivaldi-snapshot/Default/Local App Settings/mpognobbkildjkofajifpdfhcoklimli/MANIFEST-000001: OK
+2017/06/10-13:53:29.772 32749 **** Repaired leveldb /home/pringled/.config/vivaldi-snapshot/Default/Local App Settings/mpognobbkildjkofajifpdfhcoklimli; recovered 2 files; 668573 bytes. Some data may have been lost. ****

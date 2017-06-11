@@ -1,0 +1,21 @@
+2017/06/10-13:53:25.370 32749 Reusing MANIFEST /home/pringled/.config/vivaldi-snapshot/Default/Extension State/MANIFEST-000001
+2017/06/10-13:53:25.396 32749 Recovering log #274
+2017/06/10-13:53:25.650 32749 Reusing old log /home/pringled/.config/vivaldi-snapshot/Default/Extension State/000274.log 
+2017/06/10-15:19:09.171 1594 Level-0 table #278: started
+2017/06/10-15:19:09.423 1594 Level-0 table #278: 753851 bytes OK
+2017/06/10-15:19:09.547 1594 Delete type=0 #274
+2017/06/11-03:34:06.893 1594 Level-0 table #280: started
+2017/06/11-03:34:07.138 1594 Level-0 table #280: 967973 bytes OK
+2017/06/11-03:34:07.288 1594 Delete type=0 #277
+2017/06/11-05:02:19.878 1594 Level-0 table #282: started
+2017/06/11-05:02:20.075 1594 Level-0 table #282: 912114 bytes OK
+2017/06/11-05:02:20.199 1594 Delete type=0 #279
+2017/06/11-05:02:20.199 1594 Compacting 4@0 + 1@1 files
+2017/06/11-05:02:21.042 1594 Generated table #283@0: 16 keys, 6113 bytes
+2017/06/11-05:02:21.042 1594 Compacted 4@0 + 1@1 files => 6113 bytes
+2017/06/11-05:02:21.254 1594 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/06/11-05:02:21.255 1594 Delete type=2 #273
+2017/06/11-05:02:21.278 1594 Delete type=2 #280
+2017/06/11-05:02:21.278 1594 Delete type=2 #275
+2017/06/11-05:02:21.279 1594 Delete type=2 #282
+2017/06/11-05:02:21.279 1594 Delete type=2 #278
