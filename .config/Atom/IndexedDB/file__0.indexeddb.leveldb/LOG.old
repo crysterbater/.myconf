@@ -1,0 +1,36 @@
+2017/06/08-08:14:45.134 14088 Reusing MANIFEST /home/pringled/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2017/06/08-08:14:45.135 14088 Recovering log #565
+2017/06/08-08:14:45.314 14088 Reusing old log /home/pringled/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000565.log 
+2017/06/08-10:49:38.391 20913 Level-0 table #569: started
+2017/06/08-10:49:38.608 20913 Level-0 table #569: 1903900 bytes OK
+2017/06/08-10:49:38.694 20913 Delete type=0 #565
+2017/06/08-11:05:24.156 20913 Compacting 3@0 + 1@1 files
+2017/06/08-11:05:24.565 20913 Generated table #570@0: 47 keys, 1942404 bytes
+2017/06/08-11:05:24.566 20913 Compacted 3@0 + 1@1 files => 1942404 bytes
+2017/06/08-11:05:24.637 20913 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/06/08-11:05:24.638 20913 Delete type=2 #564
+2017/06/08-11:05:24.639 20913 Delete type=2 #562
+2017/06/08-11:05:24.639 20913 Delete type=2 #566
+2017/06/08-11:05:24.640 20913 Delete type=2 #569
+2017/06/08-12:41:48.360 20913 Level-0 table #572: started
+2017/06/08-12:41:48.569 20913 Level-0 table #572: 1762355 bytes OK
+2017/06/08-12:41:48.645 20913 Delete type=0 #568
+2017/06/08-17:09:01.210 20913 Level-0 table #574: started
+2017/06/08-17:09:01.481 20913 Level-0 table #574: 1653520 bytes OK
+2017/06/08-17:09:01.611 20913 Delete type=0 #571
+2017/06/08-17:19:25.244 20913 Compacting 2@0 + 1@1 files
+2017/06/08-17:19:25.617 20913 Generated table #575@0: 49 keys, 1961589 bytes
+2017/06/08-17:19:25.618 20913 Compacted 2@0 + 1@1 files => 1961589 bytes
+2017/06/08-17:19:25.703 20913 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/06/08-17:19:25.704 20913 Delete type=2 #572
+2017/06/08-17:19:25.725 20913 Delete type=2 #570
+2017/06/08-17:19:25.727 20913 Delete type=2 #574
+2017/06/08-17:21:10.304 20913 Level-0 table #577: started
+2017/06/08-17:21:10.512 20913 Level-0 table #577: 1460574 bytes OK
+2017/06/08-17:21:10.587 20913 Delete type=0 #573
+2017/06/10-12:33:13.062 20913 Level-0 table #579: started
+2017/06/10-12:33:13.392 20913 Level-0 table #579: 1406615 bytes OK
+2017/06/10-12:33:13.536 20913 Delete type=0 #576
+2017/06/10-12:40:08.291 20913 Level-0 table #581: started
+2017/06/10-12:40:08.507 20913 Level-0 table #581: 1455489 bytes OK
+2017/06/10-12:40:08.582 20913 Delete type=0 #578
